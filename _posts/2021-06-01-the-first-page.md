@@ -113,4 +113,4 @@
 
 - https://www.theconjugator.com/english/verb/to+rank.html
 
-![conjugator](/conjugator.png)
+![conjugator](/assets/posts/conjugator.png)
